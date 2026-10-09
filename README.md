@@ -1,0 +1,2 @@
+# premium-windmill-sail-001-windmill-sail-cloth-and-shutte
+Managing windmill sail cloth maintenance and shutter operations across multiple units is chaotic without a centralized system. This Notion template eliminates scattered spreadsheets and forgotten maintenance logs by giving you complete visibility into every sail, cloth condition, and shutter status.  The Windmill Sail Cloth and Shutter Guide is a p
